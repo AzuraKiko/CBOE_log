@@ -1,0 +1,43 @@
+{
+  "exchange": "CXA",
+  "symbol": "BHP",
+  "trades": {
+    "exchange": "CXA",
+    "symbol": "BHP",
+    "price": 34.32,
+    "quantity": 145,
+    "id": 1744167855510,
+    "time": 1744167855430,
+    "source": "CXA"
+  },
+  "quote": {
+    "symbol": "BHP",
+    "exchange": "CXA",
+    "side": null,
+    "additional_volume": 145,
+    "trade_price": 34.32,
+    "trade_size": 145,
+    "volume": 364748,
+    "value_traded": 12448768.980000058,
+    "number_of_trades": 26795,
+    "change_point": -0.35999999999999943,
+    "change_percent": -1.0380622837370226,
+    "vwap": 34.1433531265515,
+    "open": 33.98,
+    "high": 34.49,
+    "low": 33.86,
+    "previous_close": 35.23,
+    "prv_business_day": "2025-04-08",
+    "change_business_day": false,
+    "first_msg": false,
+    "check_close": true,
+    "source": "CXA",
+    "avg_price": 34.12977995766956,
+    "indicative_price": null,
+    "auction_volume": null,
+    "surplus_volume": null,
+    "is_closed_price_updated": false,
+    "pnl_price_type": "TRADING",
+    "updated": 1744167855430
+  }
+}

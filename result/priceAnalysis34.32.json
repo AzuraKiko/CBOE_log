@@ -1,0 +1,14 @@
+{
+  "price": 34.32,
+  "activities": {
+    "P7BRPW9OO2YQ": [
+      {
+        "activityType": "execute",
+        "side": "S",
+        "quantity": 145,
+        "price": 34.32,
+        "Timestamp": "1744167855430000"
+      }
+    ]
+  }
+}

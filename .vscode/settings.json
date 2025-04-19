@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500
+}

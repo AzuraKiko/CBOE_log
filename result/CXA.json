@@ -1,0 +1,29 @@
+{
+  "symbol": "BHP",
+  "exchange": "CXA",
+  "depth": {
+    "ask": {
+      "0": {
+        "symbol": "BHP",
+        "quantity": -145,
+        "number_of_trades": -1,
+        "price": 34.32,
+        "exchange": "CXA",
+        "timestamp": 1744167855430000,
+        "source": "CXA",
+        "side": "Ask"
+      }
+    },
+    "bid": {},
+    "total_ask_size": -145,
+    "total_bid_size": 0
+  },
+  "trades": {
+    "0": {
+      "price": 34.32,
+      "quantity": 145,
+      "time": 1744167855430,
+      "source": "CXA"
+    }
+  }
+}

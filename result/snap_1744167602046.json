@@ -1,0 +1,617 @@
+[
+  {
+    "exchange": "CXA",
+    "symbol": "BHP",
+    "depth": {
+      "ask": {
+        "0": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 3483,
+          "number_of_trades": 80,
+          "price": 34.31,
+          "exchange": "CXA",
+          "timestamp": 1744167572510000,
+          "source": "CXA"
+        },
+        "1": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 4653,
+          "number_of_trades": 91,
+          "price": 34.32,
+          "exchange": "CXA",
+          "timestamp": 1744167601028000,
+          "source": "CXA"
+        },
+        "2": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 12708,
+          "number_of_trades": 125,
+          "price": 34.33,
+          "exchange": "CXA",
+          "timestamp": 1744167600394000,
+          "source": "CXA"
+        },
+        "3": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 13428,
+          "number_of_trades": 234,
+          "price": 34.34,
+          "exchange": "CXA",
+          "timestamp": 1744167600597000,
+          "source": "CXA"
+        },
+        "4": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 16650,
+          "number_of_trades": 226,
+          "price": 34.35,
+          "exchange": "CXA",
+          "timestamp": 1744167598971000,
+          "source": "CXA"
+        },
+        "5": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 17491,
+          "number_of_trades": 157,
+          "price": 34.36,
+          "exchange": "CXA",
+          "timestamp": 1744167585436000,
+          "source": "CXA"
+        },
+        "6": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 9877,
+          "number_of_trades": 139,
+          "price": 34.37,
+          "exchange": "CXA",
+          "timestamp": 1744167570777000,
+          "source": "CXA"
+        },
+        "7": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 11331,
+          "number_of_trades": 110,
+          "price": 34.38,
+          "exchange": "CXA",
+          "timestamp": 1744167476585000,
+          "source": "CXA"
+        },
+        "8": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 8951,
+          "number_of_trades": 111,
+          "price": 34.39,
+          "exchange": "CXA",
+          "timestamp": 1744167566815000,
+          "source": "CXA"
+        },
+        "9": {
+          "symbol": "BHP",
+          "side": "Ask",
+          "quantity": 5205,
+          "number_of_trades": 66,
+          "price": 34.41,
+          "exchange": "CXA",
+          "timestamp": 1744167570128000,
+          "source": "CXA"
+        }
+      },
+      "bid": {
+        "0": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 6736,
+          "number_of_trades": 80,
+          "price": 34.29,
+          "exchange": "CXA",
+          "timestamp": 1744167586387000,
+          "source": "CXA"
+        },
+        "1": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 6287,
+          "number_of_trades": 99,
+          "price": 34.28,
+          "exchange": "CXA",
+          "timestamp": 1744167569408000,
+          "source": "CXA"
+        },
+        "2": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 6055,
+          "number_of_trades": 93,
+          "price": 34.27,
+          "exchange": "CXA",
+          "timestamp": 1744167568933000,
+          "source": "CXA"
+        },
+        "3": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 9271,
+          "number_of_trades": 113,
+          "price": 34.26,
+          "exchange": "CXA",
+          "timestamp": 1744167598192000,
+          "source": "CXA"
+        },
+        "4": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 6115,
+          "number_of_trades": 136,
+          "price": 34.25,
+          "exchange": "CXA",
+          "timestamp": 1744167431082000,
+          "source": "CXA"
+        },
+        "5": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 3949,
+          "number_of_trades": 72,
+          "price": 34.24,
+          "exchange": "CXA",
+          "timestamp": 1744167565260000,
+          "source": "CXA"
+        },
+        "6": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 4761,
+          "number_of_trades": 61,
+          "price": 34.23,
+          "exchange": "CXA",
+          "timestamp": 1744167565262000,
+          "source": "CXA"
+        },
+        "7": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 4877,
+          "number_of_trades": 60,
+          "price": 34.22,
+          "exchange": "CXA",
+          "timestamp": 1744167567403000,
+          "source": "CXA"
+        },
+        "8": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 6963,
+          "number_of_trades": 56,
+          "price": 34.21,
+          "exchange": "CXA",
+          "timestamp": 1744167572316000,
+          "source": "CXA"
+        },
+        "9": {
+          "symbol": "BHP",
+          "side": "Bid",
+          "quantity": 2410,
+          "number_of_trades": 56,
+          "price": 34.2,
+          "exchange": "CXA",
+          "timestamp": 1744167565729000,
+          "source": "CXA"
+        }
+      },
+      "total_ask_size": 103777,
+      "total_bid_size": 57424
+    },
+    "quote": {
+      "exchange": "CXA",
+      "symbol": "BHP",
+      "ask_price": 34.31,
+      "ask_size": 3483,
+      "bid_price": 34.29,
+      "bid_size": 6736,
+      "change_percent": -2.639796,
+      "change_point": -0.93,
+      "close": null,
+      "high": 34.49,
+      "low": 33.86,
+      "open": 33.98,
+      "trade_price": 34.3,
+      "trade_size": 8,
+      "updated": 1744167579861,
+      "volume": 361902,
+      "previous_close": 35.23,
+      "value_traded": 12355753.79,
+      "indicative_price": null,
+      "vwap": 34.141914,
+      "open_interest": null,
+      "implied_volatility": null,
+      "break_even": null,
+      "break_even_percent": null,
+      "in_the_money": null,
+      "delta": null,
+      "vega": null,
+      "theta": null,
+      "gamma": null,
+      "rho": null,
+      "price_lower_1": null,
+      "price_lower_2": null,
+      "price_higher_1": null,
+      "price_higher_2": null,
+      "long_lower_1": null,
+      "long_lower_2": null,
+      "long_higher_1": null,
+      "long_higher_2": null,
+      "short_lower_1": null,
+      "short_lower_2": null,
+      "short_higher_1": null,
+      "short_higher_2": null,
+      "number_of_trades": 9333,
+      "market_cap": null,
+      "theo_price": null,
+      "iv_change": null,
+      "is_closed_price_updated": false,
+      "pnl_price_type": "TRADING"
+    },
+    "trades": {
+      "8b914aea-6c20-457b-9ff0-e0f728ce7f25": {
+        "price": 34.3,
+        "quantity": 8,
+        "id": 1744167579943,
+        "time": 1744167579861,
+        "source": "CXA"
+      },
+      "ac232fa2-f0f2-4528-be6d-3fccc90e1121": {
+        "price": 34.3,
+        "quantity": 8,
+        "id": 1744167579953,
+        "time": 1744167579861,
+        "source": "CXA"
+      },
+      "16ac3cae-e10e-444c-9af2-9af193f465aa": {
+        "price": 34.3,
+        "quantity": 100,
+        "id": 1744167579253,
+        "time": 1744167579144,
+        "source": "CXA"
+      },
+      "64c8bcb4-cd91-4055-ac94-c5d2b8eb7081": {
+        "price": 34.3,
+        "quantity": 10,
+        "id": 1744167569517,
+        "time": 1744167569407,
+        "source": "CXA"
+      },
+      "0d3cd991-7cce-4ca7-9aee-71814f611eff": {
+        "price": 34.29,
+        "quantity": 153,
+        "id": 1744167568600,
+        "time": 1744167566152,
+        "source": "CXA"
+      },
+      "9fd6f9b2-f5b4-4915-a2f4-34ea3782cfef": {
+        "price": 34.29,
+        "quantity": 8,
+        "id": 1744167568605,
+        "time": 1744167566152,
+        "source": "CXA"
+      },
+      "0b2859b5-8ea4-4971-aff2-1c67b635a2c3": {
+        "price": 34.29,
+        "quantity": 10,
+        "id": 1744167567659,
+        "time": 1744167565642,
+        "source": "CXA"
+      },
+      "f7eabebf-2cfa-4cfd-b0c0-0d3b3aed7cd2": {
+        "price": 34.29,
+        "quantity": 4,
+        "id": 1744167567716,
+        "time": 1744167565642,
+        "source": "CXA"
+      },
+      "b99e4d2c-27a1-4fc8-9479-5105d96eef02": {
+        "price": 34.3,
+        "quantity": 5,
+        "id": 1744167567481,
+        "time": 1744167565383,
+        "source": "CXA"
+      },
+      "33d6ef86-f2c5-483a-89cf-c3453d150135": {
+        "price": 34.3,
+        "quantity": 5,
+        "id": 1744167567498,
+        "time": 1744167565383,
+        "source": "CXA"
+      },
+      "da0a0d2d-d86b-4a01-b6c2-33075837188b": {
+        "price": 34.3,
+        "quantity": 5,
+        "id": 1744167567549,
+        "time": 1744167565383,
+        "source": "CXA"
+      },
+      "47a52b5f-6229-456f-901e-714cf92cd83e": {
+        "price": 34.3,
+        "quantity": 6,
+        "id": 1744167567545,
+        "time": 1744167565383,
+        "source": "CXA"
+      },
+      "8d7a7b4e-b3e7-4951-b132-00eb7710cb4e": {
+        "price": 34.31,
+        "quantity": 11,
+        "id": 1744167565374,
+        "time": 1744167565260,
+        "source": "CXA"
+      },
+      "b704e5d8-dc77-4499-9a74-47ef0cfff2a1": {
+        "price": 34.31,
+        "quantity": 50,
+        "id": 1744167565382,
+        "time": 1744167565260,
+        "source": "CXA"
+      },
+      "a715b003-3956-4a8b-90f9-f24014b4415b": {
+        "price": 34.31,
+        "quantity": 69,
+        "id": 1744167565377,
+        "time": 1744167565260,
+        "source": "CXA"
+      },
+      "cf548cc7-1dbc-427b-ae2b-21e26f349690": {
+        "price": 34.32,
+        "quantity": 20,
+        "id": 1744167565348,
+        "time": 1744167565260,
+        "source": "CXA"
+      },
+      "c4428461-3d67-4f92-8d88-e7554bb40bce": {
+        "price": 34.32,
+        "quantity": 3,
+        "id": 1744167554451,
+        "time": 1744167554233,
+        "source": "CXA"
+      },
+      "31a61c9f-9b0f-49b4-8633-4d90be6888b0": {
+        "price": 34.32,
+        "quantity": 1,
+        "id": 1744167554392,
+        "time": 1744167553963,
+        "source": "CXA"
+      },
+      "ee5d6c4b-1413-4b75-b00d-7132ddaa8f31": {
+        "price": 34.33,
+        "quantity": 10,
+        "id": 1744167553295,
+        "time": 1744167553186,
+        "source": "CXA"
+      },
+      "0a8bbbea-bef4-49e4-82ff-a3c84731ea7a": {
+        "price": 34.33,
+        "quantity": 10,
+        "id": 1744167553305,
+        "time": 1744167553186,
+        "source": "CXA"
+      },
+      "bbf83cb5-5044-4bbc-9c3d-3c37c3c5adf7": {
+        "price": 34.33,
+        "quantity": 11,
+        "id": 1744167553338,
+        "time": 1744167553186,
+        "source": "CXA"
+      },
+      "aba7cd9a-45ef-4cf7-b4ce-2322a9c4fb90": {
+        "price": 34.33,
+        "quantity": 27,
+        "id": 1744167553298,
+        "time": 1744167553186,
+        "source": "CXA"
+      },
+      "f31ad949-cab1-4055-8ba9-eb4e6e5ea98f": {
+        "price": 34.33,
+        "quantity": 7,
+        "id": 1744167553332,
+        "time": 1744167553186,
+        "source": "CXA"
+      },
+      "5d171aa9-92b1-4c3b-9a09-9e18d885572f": {
+        "price": 34.34,
+        "quantity": 10,
+        "id": 1744167520458,
+        "time": 1744167520298,
+        "source": "CXA"
+      },
+      "b1ed9f70-1773-4642-b6d7-5fe3be487ddf": {
+        "price": 34.34,
+        "quantity": 33,
+        "id": 1744167509664,
+        "time": 1744167509329,
+        "source": "CXA"
+      },
+      "82bbe38e-a617-4414-b13e-6c7216a2bf82": {
+        "price": 34.34,
+        "quantity": 91,
+        "id": 1744167509672,
+        "time": 1744167509329,
+        "source": "CXA"
+      },
+      "5e6b20aa-0774-444b-8c71-da8290109501": {
+        "price": 34.34,
+        "quantity": 95,
+        "id": 1744167509661,
+        "time": 1744167509329,
+        "source": "CXA"
+      },
+      "e7db9e46-73aa-4fb2-8e74-ccaf144cea79": {
+        "price": 34.35,
+        "quantity": 39,
+        "id": 1744167509633,
+        "time": 1744167509297,
+        "source": "CXA"
+      },
+      "23d603af-71bf-4536-94ae-a1c62a55d10b": {
+        "price": 34.35,
+        "quantity": 60,
+        "id": 1744167509644,
+        "time": 1744167509297,
+        "source": "CXA"
+      },
+      "bd434cf0-ab33-47d8-ac85-21581d144995": {
+        "price": 34.35,
+        "quantity": 70,
+        "id": 1744167509638,
+        "time": 1744167509297,
+        "source": "CXA"
+      },
+      "11fe9cb0-0778-4fbd-84d3-1a758e160609": {
+        "price": 34.35,
+        "quantity": 71,
+        "id": 1744167509647,
+        "time": 1744167509297,
+        "source": "CXA"
+      },
+      "87cffffc-6348-4dde-83c5-32df07f668f6": {
+        "price": 34.34,
+        "quantity": 10,
+        "id": 1744167509625,
+        "time": 1744167509296,
+        "source": "CXA"
+      },
+      "4612a35c-2bd8-42d0-9683-8e8f6dbac63f": {
+        "price": 34.34,
+        "quantity": 91,
+        "id": 1744167509641,
+        "time": 1744167509296,
+        "source": "CXA"
+      },
+      "0a911440-f787-411d-9709-e54bf6a6c1c1": {
+        "price": 34.34,
+        "quantity": 95,
+        "id": 1744167509629,
+        "time": 1744167509296,
+        "source": "CXA"
+      },
+      "b6f1dc5f-61b6-4477-8018-4e11e4e16224": {
+        "price": 34.35,
+        "quantity": 21,
+        "id": 1744167509455,
+        "time": 1744167509292,
+        "source": "CXA"
+      },
+      "99072e43-abf2-440a-815e-ebac31f6869a": {
+        "price": 34.35,
+        "quantity": 5,
+        "id": 1744167509435,
+        "time": 1744167509292,
+        "source": "CXA"
+      },
+      "f278b047-ee65-4625-821c-8b0a80e46112": {
+        "price": 34.35,
+        "quantity": 23,
+        "id": 1744167508445,
+        "time": 1744167508234,
+        "source": "CXA"
+      },
+      "bc959025-2a3d-4ed8-b877-25391c63022c": {
+        "price": 34.35,
+        "quantity": 5,
+        "id": 1744167508483,
+        "time": 1744167508234,
+        "source": "CXA"
+      },
+      "61e56b10-c962-4080-897a-a8f4291442d5": {
+        "price": 34.35,
+        "quantity": 7,
+        "id": 1744167508469,
+        "time": 1744167508234,
+        "source": "CXA"
+      },
+      "733f1ff8-e541-48cf-90d7-0f828d975f24": {
+        "price": 34.35,
+        "quantity": 9,
+        "id": 1744167508466,
+        "time": 1744167508234,
+        "source": "CXA"
+      },
+      "ca1f3229-657c-4b98-b19e-dce243b08194": {
+        "price": 34.35,
+        "quantity": 10,
+        "id": 1744167503317,
+        "time": 1744167503129,
+        "source": "CXA"
+      },
+      "67041caf-810b-401a-bd17-bea60abd34f6": {
+        "price": 34.35,
+        "quantity": 11,
+        "id": 1744167503348,
+        "time": 1744167503129,
+        "source": "CXA"
+      },
+      "936b6fed-be94-4ac7-9ffa-9669678e03e3": {
+        "price": 34.35,
+        "quantity": 5,
+        "id": 1744167503408,
+        "time": 1744167503129,
+        "source": "CXA"
+      },
+      "aec939eb-e3c8-4407-a398-0cc03a48b4fc": {
+        "price": 34.35,
+        "quantity": 9,
+        "id": 1744167503380,
+        "time": 1744167503129,
+        "source": "CXA"
+      },
+      "58868a2d-84f2-435c-bea6-b50caa0b2878": {
+        "price": 34.33,
+        "quantity": 11,
+        "id": 1744167501892,
+        "time": 1744167501441,
+        "source": "CXA"
+      },
+      "16853636-b24b-4ba3-8e51-3ab49643825c": {
+        "price": 34.33,
+        "quantity": 3,
+        "id": 1744167501877,
+        "time": 1744167501441,
+        "source": "CXA"
+      },
+      "b1fe9f5c-b3da-435d-9b19-f48dafa6f86d": {
+        "price": 34.32,
+        "quantity": 4,
+        "id": 1744167489512,
+        "time": 1744167489158,
+        "source": "CXA"
+      },
+      "046a37f5-e85f-470a-9959-d9ec935b3966": {
+        "price": 34.32,
+        "quantity": 99,
+        "id": 1744167489506,
+        "time": 1744167489157,
+        "source": "CXA"
+      },
+      "45a92521-d4ae-46c4-b95e-cb9d15f6c4b6": {
+        "price": 34.32,
+        "quantity": 3,
+        "id": 1744167477212,
+        "time": 1744167477124,
+        "source": "CXA"
+      },
+      "b7d7d6be-69bf-4bb7-bdb3-6ca1b3c059cb": {
+        "price": 34.32,
+        "quantity": 10,
+        "id": 1744167476856,
+        "time": 1744167476729,
+        "source": "CXA"
+      }
+    },
+    "time": 1744167602046
+  }
+]

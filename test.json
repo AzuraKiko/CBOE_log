@@ -1,0 +1,74 @@
+{
+  "BHP": {
+    "P7BRPW9OO2YQ": [
+      {
+        "level": "info",
+        "time": "2025-04-09T03:03:37Z",
+        "caller": "/app/pkg/cboe/message_handler.go:70",
+        "message": "UDPAddr: 170.137.217.68:49182 - common.AddOrderMessage{Timestamp:1744167817298000, OrderID:\"P7BRPW9OO2YQ\", SideIndicator:\"S\", Quantity:846, Symbol:\"BHP\", Price:34.32, PID:\"    \", Reserved:\"\\x00\"} - common.SequencedUnitHeader{HdrLength:50, HdrCount:1, HdrUnit:1, HdrSequence:9823950} - ReceivedAt: 2025-04-09 13:03:37.298 - ExecutedTime: 303.4\u00c2\u00b5s",
+        "timestamp": 1744142617.0,
+        "message_type": "AddOrderMessage",
+        "parsed_message": {
+          "Timestamp": "1744167817298000",
+          "OrderID": "P7BRPW9OO2YQ",
+          "SideIndicator": "S",
+          "Quantity": "846",
+          "Symbol": "BHP",
+          "Price": "34.32",
+          "PID": "    ",
+          "Reserved": "\\x00\"} - common.SequencedUnitHeader{HdrLength:50",
+          "HdrCount": "1",
+          "HdrUnit": "1",
+          "HdrSequence": "9823950"
+        }
+      },
+      {
+        "level": "info",
+        "time": "2025-04-09T03:04:15Z",
+        "caller": "/app/pkg/cboe/message_handler.go:76",
+        "message": "UDPAddr: 170.137.217.68:49182 - common.OrderExecutedMessage{Timestamp:1744167855430000, OrderID:\"P7BRPW9OO2YQ\", ExecutedQty:145, ExecutionID:\"2K19DSFIJX4HS\", ContractOrderID:\"35Z1DD6OEEOEA\", ContractPID:\"    \", Reserved:\"\\x00\"} - common.SequencedUnitHeader{HdrLength:51, HdrCount:1, HdrUnit:1, HdrSequence:9849339} - ReceivedAt: 2025-04-09 13:04:15.430 - ExecutedTime: 347.002\u00c2\u00b5s",
+        "timestamp": 1744142655.0,
+        "message_type": "OrderExecutedMessage",
+        "parsed_message": {
+          "Timestamp": "1744167855430000",
+          "OrderID": "P7BRPW9OO2YQ",
+          "ExecutedQty": "145",
+          "ExecutionID": "2K19DSFIJX4HS",
+          "ContractOrderID": "35Z1DD6OEEOEA",
+          "ContractPID": "    ",
+          "Reserved": "\\x00\"} - common.SequencedUnitHeader{HdrLength:51",
+          "HdrCount": "1",
+          "HdrUnit": "1",
+          "HdrSequence": "9849339",
+          "Symbol": "BHP",
+          "SideIndicator": "S",
+          "Price": "34.32"
+        }
+      },
+      {
+        "level": "info",
+        "time": "2025-04-09T03:04:45Z",
+        "caller": "/app/pkg/cboe/message_handler.go:76",
+        "message": "UDPAddr: 170.137.217.68:49182 - common.OrderExecutedMessage{Timestamp:1744167885497000, OrderID:\"P7BRPW9OO2YQ\", ExecutedQty:423, ExecutionID:\"3J2RFLGP2G4CG\", ContractOrderID:\"S39BD464ELMQ\", ContractPID:\"    \", Reserved:\"\\x00\"} - common.SequencedUnitHeader{HdrLength:51, HdrCount:1, HdrUnit:1, HdrSequence:9869500} - ReceivedAt: 2025-04-09 13:04:45.497 - ExecutedTime: 253.726\u00c2\u00b5s",
+        "timestamp": 1744142685.0,
+        "message_type": "OrderExecutedMessage",
+        "parsed_message": {
+          "Timestamp": "1744167885497000",
+          "OrderID": "P7BRPW9OO2YQ",
+          "ExecutedQty": "423",
+          "ExecutionID": "3J2RFLGP2G4CG",
+          "ContractOrderID": "S39BD464ELMQ",
+          "ContractPID": "    ",
+          "Reserved": "\\x00\"} - common.SequencedUnitHeader{HdrLength:51",
+          "HdrCount": "1",
+          "HdrUnit": "1",
+          "HdrSequence": "9869500",
+          "Symbol": "BHP",
+          "SideIndicator": "S",
+          "Price": "34.32"
+        }
+      }
+    ]
+  }
+}
+
