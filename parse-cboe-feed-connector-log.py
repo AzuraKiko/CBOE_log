@@ -23,18 +23,45 @@ START_TIME = 1744167695764000
 END_TIME = 1744167776676000  
 
 # Hàm đọc dữ liệu từ file log và chuyển đổi JSON sang dictionary
+# def load_log_data(file_path):
+#     log_entries = []
+#     if os.path.isfile(file_path) and file_path.endswith('.gz'):
+#         print(f"Reading log file: {file_path}")
+#         with gzip.open(file_path, 'rt') as file:
+#             for line in file:
+#                 log_entries.append(json.loads(line))
+#     elif os.path.isfile(file_path) and file_path.endswith('.log'):
+#         print(f"Reading log file: {file_path}")
+#         with open(file_path, 'r') as file:
+#             for line in file:
+#                 log_entries.append(json.loads(line))
+#     return log_entries
+
 def load_log_data(file_path):
     log_entries = []
+    
     if os.path.isfile(file_path) and file_path.endswith('.gz'):
         print(f"Reading log file: {file_path}")
-        with gzip.open(file_path, 'rt') as file:
+        # Use encoding='utf-8' and errors='replace' to handle problematic characters
+        with gzip.open(file_path, 'rt', encoding='utf-8', errors='replace') as file:
             for line in file:
-                log_entries.append(json.loads(line))
+                try:
+                    log_entries.append(json.loads(line))
+                except json.JSONDecodeError as e:
+                    print(f"Error parsing JSON in file {file_path}: {e}")
+                    continue
+    
     elif os.path.isfile(file_path) and file_path.endswith('.log'):
         print(f"Reading log file: {file_path}")
-        with open(file_path, 'r') as file:
+        # Also use encoding='utf-8' and errors='replace' for .log files
+        with open(file_path, 'r', encoding='utf-8', errors='replace') as file:
             for line in file:
-                log_entries.append(json.loads(line))
+                try:
+                    log_entries.append(json.loads(line))
+                except json.JSONDecodeError as e:
+                    print(f"Error parsing JSON in file {file_path}: {e}")
+                    continue
+    
     return log_entries
 
 # Hàm đọc tất cả dữ liệu log từ thư mục
