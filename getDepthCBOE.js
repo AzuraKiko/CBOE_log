@@ -1,7 +1,7 @@
 const { saveFile } = require("./saveFile.js");
 const { readJSONfile } = require("./readJSONfile.js");
 
-const totalData = readJSONfile("./grouped_by_symbol_BHP_20250416_181532.json");
+const totalData = readJSONfile("./grouped_by_symbol_ALL_20250425_023706.json");
 
 
 // Helper function to update depth levels
@@ -340,20 +340,27 @@ const getOrderDataByPrice = (data, targetPrice, timeRange = null) => {
 // Usage
 const startData = readJSONfile("./handleResult/3_startData.json");
 const endData = readJSONfile("./handleResult/4_endData.json");
-const currentTradePrice = 34.32; 
+const currentTradePrice = 64.28;
 const tradePrice = endData.quote?.trade_price ?? currentTradePrice;
 
 
-const timeRange = {
-  start: Number(startData.quote.updated) * 1000, // Start time (inclusive)
-  end: Number(endData.quote.updated) * 1000    // End time (inclusive)
-};
-console.log("timeRange", timeRange);
+// const timeRange = {
+//   start: Number(startData.quote.updated) * 1000, // Start time (inclusive)
+//   end: Number(endData.quote.updated) * 1000    // End time (inclusive)
+// };
+// // console.log("timeRange", timeRange);
+// const time = {
+//   start: new Date(timeRange.start / 1000).toISOString(),
+//   end: new Date(timeRange.end / 1000).toISOString(),
+// };
+// console.log("timeRange", time);
 
+// console.log(new Date(1745466894433000 / 1000).toISOString());
+const timeRange = null;
 
 const resultWithoutTimeFilter = getDepth(totalData, tradePrice, timeRange);
 saveFile(JSON.stringify(resultWithoutTimeFilter, null, 2), "./result/depthCXA.json");
 
-const targetPrice = 34.32;
+const targetPrice = 64.40;
 const resultPrice = getOrderDataByPrice(totalData, targetPrice, timeRange);
-saveFile(JSON.stringify(resultPrice, null, 2), `./result/priceCXA${targetPrice}.json`);
+saveFile(JSON.stringify(resultPrice, null, 2), `./result/priceCXA_${targetPrice}.json`);

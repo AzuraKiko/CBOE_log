@@ -1,0 +1,3862 @@
+{
+  "2V7EGEYPJNEO2": [
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465477012000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.37",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465538213000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465573120000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465588231000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465756017000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.28",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465783938000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465789866000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465817326000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465840090000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465858397000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2V7EGEYPJNEO2",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465930872000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3T5BY3OTUDFCY": [
+    {
+      "OrderID": "3T5BY3OTUDFCY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465478327000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3T5BY3OTUDFCY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465503304000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1RSM776XJJPXE": [
+    {
+      "OrderID": "1RSM776XJJPXE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745465483968000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1RSM776XJJPXE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745465493792000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "HUVA1UZXW8OY": [
+    {
+      "OrderID": "HUVA1UZXW8OY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745465535426000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "HUVA1UZXW8OY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745465537385000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "UZY8O7W99CLE": [
+    {
+      "OrderID": "UZY8O7W99CLE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465539609000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "UZY8O7W99CLE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465684825000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3CS5JGGLK7C3M": [
+    {
+      "OrderID": "3CS5JGGLK7C3M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745465540759000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3CS5JGGLK7C3M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745465554996000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3NQBP5UTWYB5U": [
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465541054000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465640363000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465723474000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465756524000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465781946000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465813419000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465833445000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.28",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465857106000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465863981000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3NQBP5UTWYB5U",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465896256000",
+      "message_type": "ModifyOrderMessage"
+    }
+  ],
+  "Q2SZFFY648AQ": [
+    {
+      "OrderID": "Q2SZFFY648AQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745465546719000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "Q2SZFFY648AQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745465548869000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "19SB9P5KENZEQ": [
+    {
+      "OrderID": "19SB9P5KENZEQ",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465547309000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "19SB9P5KENZEQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465602116000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "19SB9P5KENZEQ",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465756770000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "19SB9P5KENZEQ",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465786485000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3ITER8QCAT0CI": [
+    {
+      "OrderID": "3ITER8QCAT0CI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745465554459000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3ITER8QCAT0CI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745465579060000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3A2OSVHICBQWY": [
+    {
+      "OrderID": "3A2OSVHICBQWY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465575034000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3A2OSVHICBQWY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465578554000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3UBWLFGU741S2": [
+    {
+      "OrderID": "3UBWLFGU741S2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "18",
+      "SideIndicator": "S",
+      "Timestamp": "1745465575612000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3UBWLFGU741S2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "18",
+      "SideIndicator": "S",
+      "Timestamp": "1745465580001000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "6Y08IHOXG8OY": [
+    {
+      "OrderID": "6Y08IHOXG8OY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465577672000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "6Y08IHOXG8OY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465577673000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1RVP26JP65B0I": [
+    {
+      "OrderID": "1RVP26JP65B0I",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745465578680000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1RVP26JP65B0I",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745465578685000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "29Y2TLG6JZEV6": [
+    {
+      "OrderID": "29Y2TLG6JZEV6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745465578975000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "29Y2TLG6JZEV6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745465579130000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2OQ7JAQE8E876": [
+    {
+      "OrderID": "2OQ7JAQE8E876",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "102",
+      "SideIndicator": "S",
+      "Timestamp": "1745465579130000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2OQ7JAQE8E876",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "102",
+      "SideIndicator": "S",
+      "Timestamp": "1745465955342000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "AS1KA9HQS0SI": [
+    {
+      "OrderID": "AS1KA9HQS0SI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465579911000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "AS1KA9HQS0SI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465583477000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "28V77G3HR5W5E": [
+    {
+      "OrderID": "28V77G3HR5W5E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745465596916000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "28V77G3HR5W5E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745465681349000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "11P5ECDELO936": [
+    {
+      "OrderID": "11P5ECDELO936",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465681396000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "11P5ECDELO936",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465756009000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "11P5ECDELO936",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465786484000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1UQS4B1L7KHKY": [
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465706614000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.28",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465756764000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465789397000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465812106000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465841770000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.28",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465856568000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465863322000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465885980000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1UQS4B1L7KHKY",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745465955334000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "FY1JZPR688W2": [
+    {
+      "OrderID": "FY1JZPR688W2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465832438000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "FY1JZPR688W2",
+      "Symbol": "ALL",
+      "Price": "64.28",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465858397000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "FY1JZPR688W2",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465864096000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "FY1JZPR688W2",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465889820000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "FY1JZPR688W2",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465955334000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "17ZN7GQK4WQ9U": [
+    {
+      "OrderID": "17ZN7GQK4WQ9U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745465955148000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "17ZN7GQK4WQ9U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745465955343000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "PXC7TPW8QK8Y": [
+    {
+      "OrderID": "PXC7TPW8QK8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "B",
+      "Timestamp": "1745465956638000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "PXC7TPW8QK8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "B",
+      "Timestamp": "1745465958130000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3AZSKBKV93U9U": [
+    {
+      "OrderID": "3AZSKBKV93U9U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745465957632000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3AZSKBKV93U9U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745465972205000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "1OFWH3BK1OEMA": [
+    {
+      "OrderID": "1OFWH3BK1OEMA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465983675000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1OFWH3BK1OEMA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984050000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2BFNT2NFZNG8Y": [
+    {
+      "OrderID": "2BFNT2NFZNG8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984061000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2BFNT2NFZNG8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984073000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2BFNT2NFZNG8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745466003621000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2BZDBCX5LW002": [
+    {
+      "OrderID": "2BZDBCX5LW002",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984061000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2BZDBCX5LW002",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984733000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "376R9MAPTF9XE": [
+    {
+      "OrderID": "376R9MAPTF9XE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984730000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "376R9MAPTF9XE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745465984733000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2W91QK7EENXTU": [
+    {
+      "OrderID": "2W91QK7EENXTU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "96",
+      "SideIndicator": "S",
+      "Timestamp": "1745465997345000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2W91QK7EENXTU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "96",
+      "SideIndicator": "S",
+      "Timestamp": "1745466096916000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2WSR8UH40WHKY": [
+    {
+      "OrderID": "2WSR8UH40WHKY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "7",
+      "SideIndicator": "S",
+      "Timestamp": "1745465997345000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2WSR8UH40WHKY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "7",
+      "SideIndicator": "S",
+      "Timestamp": "1745466000355000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "JY0AEJMRRDOI": [
+    {
+      "OrderID": "JY0AEJMRRDOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745465997970000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "JY0AEJMRRDOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466109766000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "2NIPN2DNWIDJ6": [
+    {
+      "OrderID": "2NIPN2DNWIDJ6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "21",
+      "SideIndicator": "S",
+      "Timestamp": "1745466024623000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2NIPN2DNWIDJ6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "21",
+      "SideIndicator": "S",
+      "Timestamp": "1745466105129000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "7GK6KJ83JQPU": [
+    {
+      "OrderID": "7GK6KJ83JQPU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "17",
+      "SideIndicator": "S",
+      "Timestamp": "1745466108221000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "7GK6KJ83JQPU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466110332000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "1MYH1JX1I6AKI": [
+    {
+      "OrderID": "1MYH1JX1I6AKI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "B",
+      "Timestamp": "1745466152032000",
+      "message_type": "AddOrderMessage"
+    }
+  ],
+  "3OW1VCXXS7N5U": [
+    {
+      "OrderID": "3OW1VCXXS7N5U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466181959000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3OW1VCXXS7N5U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466182039000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3TTFFXDCCCKXU": [
+    {
+      "OrderID": "3TTFFXDCCCKXU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466181976000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3TTFFXDCCCKXU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466350207000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "IH1HIG168WLE": [
+    {
+      "OrderID": "IH1HIG168WLE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "21",
+      "SideIndicator": "S",
+      "Timestamp": "1745466182549000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "IH1HIG168WLE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "21",
+      "SideIndicator": "S",
+      "Timestamp": "1745466272410000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "13TOAMYS9IAYQ": [
+    {
+      "OrderID": "13TOAMYS9IAYQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "26",
+      "SideIndicator": "S",
+      "Timestamp": "1745466183023000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "13TOAMYS9IAYQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "26",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273626000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2U8G75PWOKUTE": [
+    {
+      "OrderID": "2U8G75PWOKUTE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466184648000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2U8G75PWOKUTE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273877000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "23EYMI5HVXSEA": [
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.38",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466192592000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466258750000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466279098000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466299714000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466319448000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466326596000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466350878000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "23EYMI5HVXSEA",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466399401000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "356XFYNEZZL6Q": [
+    {
+      "OrderID": "356XFYNEZZL6Q",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "17",
+      "SideIndicator": "S",
+      "Timestamp": "1745466197128000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "356XFYNEZZL6Q",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "17",
+      "SideIndicator": "S",
+      "Timestamp": "1745466285723000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "35QMY8X4M84XU": [
+    {
+      "OrderID": "35QMY8X4M84XU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466197128000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "35QMY8X4M84XU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466197194000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3R39RDFVPHJB6": [
+    {
+      "OrderID": "3R39RDFVPHJB6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466198034000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3R39RDFVPHJB6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273629000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3JZ7P7P9NQA6A": [
+    {
+      "OrderID": "3JZ7P7P9NQA6A",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466201460000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3JZ7P7P9NQA6A",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273865000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "161CTARN4RU2Q": [
+    {
+      "OrderID": "161CTARN4RU2Q",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466212344000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "161CTARN4RU2Q",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466350205000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1UOGZGK4EGCG2": [
+    {
+      "OrderID": "1UOGZGK4EGCG2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745466222289000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1UOGZGK4EGCG2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273713000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1V86HQTU0OW76": [
+    {
+      "OrderID": "1V86HQTU0OW76",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466222289000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1V86HQTU0OW76",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466223420000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2JVIZ89RRD81U": [
+    {
+      "OrderID": "2JVIZ89RRD81U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "30",
+      "SideIndicator": "S",
+      "Timestamp": "1745466238865000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2JVIZ89RRD81U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "30",
+      "SideIndicator": "S",
+      "Timestamp": "1745466272410000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "XUNGBBSR6VPE": [
+    {
+      "OrderID": "XUNGBBSR6VPE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "32",
+      "SideIndicator": "S",
+      "Timestamp": "1745466245602000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "XUNGBBSR6VPE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "32",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273626000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2M34Q46T4YTC2": [
+    {
+      "OrderID": "2M34Q46T4YTC2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466266551000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2M34Q46T4YTC2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466276818000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2T7HVDGP5DTS2": [
+    {
+      "OrderID": "2T7HVDGP5DTS2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466272622000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2T7HVDGP5DTS2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273628000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "UL64CJPYEZGI": [
+    {
+      "OrderID": "UL64CJPYEZGI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "102",
+      "SideIndicator": "S",
+      "Timestamp": "1745466273628000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "UL64CJPYEZGI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "102",
+      "SideIndicator": "S",
+      "Timestamp": "1745466400270000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2UUP605NHREV6": [
+    {
+      "OrderID": "2UUP605NHREV6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466274917000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2UUP605NHREV6",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466309819000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2UUP605NHREV6",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466399539000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "3W3KNDGEWW6IQ": [
+    {
+      "OrderID": "3W3KNDGEWW6IQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745466295962000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3W3KNDGEWW6IQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745466296962000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2NAXQ85196IO2": [
+    {
+      "OrderID": "2NAXQ85196IO2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466399402000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2NAXQ85196IO2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466400513000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "28J1BUIA1RITE": [
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466405489000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.39",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466419868000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466496659000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.34",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466503408000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466555286000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.4",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466560035000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.38",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466567110000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466592796000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466627607000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "28J1BUIA1RITE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466689606000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "O5IN40WDAN7M": [
+    {
+      "OrderID": "O5IN40WDAN7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "B",
+      "Timestamp": "1745466417923000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "O5IN40WDAN7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "B",
+      "Timestamp": "1745466426282000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "U6B88ZQ5WOHU": [
+    {
+      "OrderID": "U6B88ZQ5WOHU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466417937000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "U6B88ZQ5WOHU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466456349000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "22IPDCUD754HU": [
+    {
+      "OrderID": "22IPDCUD754HU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466419554000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "22IPDCUD754HU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466426101000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "232EVN42TDO8Y": [
+    {
+      "OrderID": "232EVN42TDO8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466419556000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "232EVN42TDO8Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466425791000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "26CNXCQCISYRM": [
+    {
+      "OrderID": "26CNXCQCISYRM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466419567000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "26CNXCQCISYRM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466425929000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "17VVEWGJ05QF6": [
+    {
+      "OrderID": "17VVEWGJ05QF6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466441345000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "17VVEWGJ05QF6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745466456349000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "KWYKFUNGI0W2": [
+    {
+      "OrderID": "KWYKFUNGI0W2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466476356000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "KWYKFUNGI0W2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466478319000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "LGO2Q4D2QKN6": [
+    {
+      "OrderID": "LGO2Q4D2QKN6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466476356000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "LGO2Q4D2QKN6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466476653000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "34WJASCXO1S76": [
+    {
+      "OrderID": "34WJASCXO1S76",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466495349000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "34WJASCXO1S76",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466496361000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "35G8T2MNAABYA": [
+    {
+      "OrderID": "35G8T2MNAABYA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466495349000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "35G8T2MNAABYA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466495600000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3E7KXMY163402": [
+    {
+      "OrderID": "3E7KXMY163402",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466495613000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3E7KXMY163402",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466497872000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3ERAFX7QSBNR6": [
+    {
+      "OrderID": "3ERAFX7QSBNR6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466495617000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3ERAFX7QSBNR6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466497860000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "14N30WMTMDAMA": [
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.37",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466496660000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.34",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466540859000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466555286000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.4",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466560036000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.38",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466567110000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745466592800000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466700988000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "14N30WMTMDAMA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466753789000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "16A7JRFYH2XVM": [
+    {
+      "OrderID": "16A7JRFYH2XVM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466496679000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "16A7JRFYH2XVM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466497630000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1TTOE11K1AJ9E": [
+    {
+      "OrderID": "1TTOE11K1AJ9E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466497492000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1TTOE11K1AJ9E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466558553000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "1XNMY0XJCYDJ6": [
+    {
+      "OrderID": "1XNMY0XJCYDJ6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "S",
+      "Timestamp": "1745466497630000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1XNMY0XJCYDJ6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "S",
+      "Timestamp": "1745466548937000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "27IE35SCH8936": [
+    {
+      "OrderID": "27IE35SCH8936",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466497871000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "27IE35SCH8936",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466549300000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "33T71ZPBX8MIQ": [
+    {
+      "OrderID": "33T71ZPBX8MIQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "27",
+      "SideIndicator": "S",
+      "Timestamp": "1745466498481000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "33T71ZPBX8MIQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "27",
+      "SideIndicator": "S",
+      "Timestamp": "1745466551299000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2NXQ3HRII0NIA": [
+    {
+      "OrderID": "2NXQ3HRII0NIA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745466499124000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2NXQ3HRII0NIA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745466550024000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "Y49WIUB05DS2": [
+    {
+      "OrderID": "Y49WIUB05DS2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "18",
+      "SideIndicator": "S",
+      "Timestamp": "1745466552644000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "Y49WIUB05DS2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745466558553000",
+      "message_type": "OrderExecutedMessage"
+    },
+    {
+      "OrderID": "Y49WIUB05DS2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "15",
+      "SideIndicator": "S",
+      "Timestamp": "1745466558944000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2BY27KXC6F2MA": [
+    {
+      "OrderID": "2BY27KXC6F2MA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "B",
+      "Timestamp": "1745466565714000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2BY27KXC6F2MA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "B",
+      "Timestamp": "1745466577135000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "S4BSWLHLUOLE": [
+    {
+      "OrderID": "S4BSWLHLUOLE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "15",
+      "SideIndicator": "S",
+      "Timestamp": "1745466586830000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "S4BSWLHLUOLE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "15",
+      "SideIndicator": "S",
+      "Timestamp": "1745466597040000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "SO1B6V7838CI": [
+    {
+      "OrderID": "SO1B6V7838CI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745466586830000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "SO1B6V7838CI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745466587001000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1UZMV5R0GPN2A": [
+    {
+      "OrderID": "1UZMV5R0GPN2A",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "18",
+      "SideIndicator": "S",
+      "Timestamp": "1745466587041000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1UZMV5R0GPN2A",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "18",
+      "SideIndicator": "S",
+      "Timestamp": "1745466588110000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "301RYJZDSISJM": [
+    {
+      "OrderID": "301RYJZDSISJM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466587227000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "301RYJZDSISJM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466587231000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1HUPG35R4OETE": [
+    {
+      "OrderID": "1HUPG35R4OETE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466588106000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1HUPG35R4OETE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466588226000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1X6JO2POFBRWI": [
+    {
+      "OrderID": "1X6JO2POFBRWI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466588238000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1X6JO2POFBRWI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466588345000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "24AR9S7XGEWOY": [
+    {
+      "OrderID": "24AR9S7XGEWOY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "7",
+      "SideIndicator": "S",
+      "Timestamp": "1745466588359000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "24AR9S7XGEWOY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "7",
+      "SideIndicator": "S",
+      "Timestamp": "1745466601424000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3LESMJX8C3W1U": [
+    {
+      "OrderID": "3LESMJX8C3W1U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466598348000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3LESMJX8C3W1U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466601972000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3RFL7OW24PXC2": [
+    {
+      "OrderID": "3RFL7OW24PXC2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466598376000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3RFL7OW24PXC2",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467044814000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "KGY3C09E6KUA": [
+    {
+      "OrderID": "KGY3C09E6KUA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745466601534000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "KGY3C09E6KUA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466601549000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "KGY3C09E6KUA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745466606200000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2Q7MZM74LKFLU": [
+    {
+      "OrderID": "2Q7MZM74LKFLU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466606225000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2Q7MZM74LKFLU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466683170000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1E1LDLZS7BWN6": [
+    {
+      "OrderID": "1E1LDLZS7BWN6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "100",
+      "SideIndicator": "S",
+      "Timestamp": "1745466616435000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1E1LDLZS7BWN6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "100",
+      "SideIndicator": "S",
+      "Timestamp": "1745466683170000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "39Z83SRV32K1U": [
+    {
+      "OrderID": "39Z83SRV32K1U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466683832000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "39Z83SRV32K1U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466698521000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "287PWZKUX0E82": [
+    {
+      "OrderID": "287PWZKUX0E82",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466695517000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "287PWZKUX0E82",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466698517000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "311M36ZAIUIQ": [
+    {
+      "OrderID": "311M36ZAIUIQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745466697222000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "311M36ZAIUIQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745466755942000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "34ITYX14BOIYQ": [
+    {
+      "OrderID": "34ITYX14BOIYQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "100",
+      "SideIndicator": "S",
+      "Timestamp": "1745466699348000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "34ITYX14BOIYQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "100",
+      "SideIndicator": "S",
+      "Timestamp": "1745466749651000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3TPFC1FUQLRLU": [
+    {
+      "OrderID": "3TPFC1FUQLRLU",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466699815000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3TPFC1FUQLRLU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466770779000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3TPFC1FUQLRLU",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467046822000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3TPFC1FUQLRLU",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467046822000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "29BISFJDLT6V6": [
+    {
+      "OrderID": "29BISFJDLT6V6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "21",
+      "SideIndicator": "S",
+      "Timestamp": "1745466701001000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "29BISFJDLT6V6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "21",
+      "SideIndicator": "S",
+      "Timestamp": "1745466820951000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "35404X3E9JXFM": [
+    {
+      "OrderID": "35404X3E9JXFM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466745078000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "35404X3E9JXFM",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466828185000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "35404X3E9JXFM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466839730000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "35404X3E9JXFM",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467030339000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "35404X3E9JXFM",
+      "Symbol": "ALL",
+      "Price": "64.34",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467042419000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "35404X3E9JXFM",
+      "Symbol": "ALL",
+      "Price": "64.34",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467048149000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1LTO5FHZCKBUQ": [
+    {
+      "OrderID": "1LTO5FHZCKBUQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466750233000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1LTO5FHZCKBUQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467042869000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3VEEDHGND9YPU": [
+    {
+      "OrderID": "3VEEDHGND9YPU",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466755956000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3VEEDHGND9YPU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466821026000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VEEDHGND9YPU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466829481000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VEEDHGND9YPU",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466921106000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VEEDHGND9YPU",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466946763000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VEEDHGND9YPU",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466946988000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3VY3VRQCZIIGY": [
+    {
+      "OrderID": "3VY3VRQCZIIGY",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745466755963000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3VY3VRQCZIIGY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466820725000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VY3VRQCZIIGY",
+      "Symbol": "ALL",
+      "Price": "64.28",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467047966000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VY3VRQCZIIGY",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467054335000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "3VY3VRQCZIIGY",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467061300000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "4Q672ZEWIXAA": [
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.35",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466755994000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466823142000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466832743000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.34",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466842058000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466922700000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466925416000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "4Q672ZEWIXAA",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745466945876000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2B0NDFBT7T9MQ": [
+    {
+      "OrderID": "2B0NDFBT7T9MQ",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466764889000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2B0NDFBT7T9MQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466825450000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2B0NDFBT7T9MQ",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466927613000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2B0NDFBT7T9MQ",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466970336000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2B0NDFBT7T9MQ",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466983763000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "35OHCY7ASFVGI": [
+    {
+      "OrderID": "35OHCY7ASFVGI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466769346000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "35OHCY7ASFVGI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466769564000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3686V8H0EOF7M": [
+    {
+      "OrderID": "3686V8H0EOF7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "101",
+      "SideIndicator": "S",
+      "Timestamp": "1745466769346000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3686V8H0EOF7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "101",
+      "SideIndicator": "S",
+      "Timestamp": "1745467362401000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3R1462Q1VP9TU": [
+    {
+      "OrderID": "3R1462Q1VP9TU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466769705000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3R1462Q1VP9TU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745466771669000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2XH31ZT2ZVGN6": [
+    {
+      "OrderID": "2XH31ZT2ZVGN6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745466776430000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2XH31ZT2ZVGN6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745466826846000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "TY2ODF2NR4ZM": [
+    {
+      "OrderID": "TY2ODF2NR4ZM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745466797358000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "TY2ODF2NR4ZM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "20",
+      "SideIndicator": "S",
+      "Timestamp": "1745466820344000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1U3DLMERV2XHE": [
+    {
+      "OrderID": "1U3DLMERV2XHE",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466815334000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1U3DLMERV2XHE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466821033000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1U3DLMERV2XHE",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467043832000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1U3DLMERV2XHE",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467095841000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1U3DLMERV2XHE",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467144252000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2520DZ3X5TJIA": [
+    {
+      "OrderID": "2520DZ3X5TJIA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745466833735000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2520DZ3X5TJIA",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745467043804000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "1YKTGUVLUKD1E": [
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.36",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466957501000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466970120000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745466992738000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467040160000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467043832000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.27",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467095848000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467147253000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "1YKTGUVLUKD1E",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467269994000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "299FYWPD9OV7M": [
+    {
+      "OrderID": "299FYWPD9OV7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272542000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "299FYWPD9OV7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467406355000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "29T5H6Z2VXEYQ": [
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.22",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467272545000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467409934000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.26",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467507847000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.3",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467597939000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467651747000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467941822000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "29T5H6Z2VXEYQ",
+      "Symbol": "ALL",
+      "Price": "64.29",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745468071139000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2ACUZH8SI5YPU": [
+    {
+      "OrderID": "2ACUZH8SI5YPU",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272558000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2ACUZH8SI5YPU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467279360000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2ACUZH8SI5YPU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467325515000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2D3EIWLCLCPHE": [
+    {
+      "OrderID": "2D3EIWLCLCPHE",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272594000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2D3EIWLCLCPHE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467277471000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2D3EIWLCLCPHE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467406359000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2EQJ1REHG2CQQ": [
+    {
+      "OrderID": "2EQJ1REHG2CQQ",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272600000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2EQJ1REHG2CQQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467276470000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2EQJ1REHG2CQQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467406359000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2FA8K1O72AWHU": [
+    {
+      "OrderID": "2FA8K1O72AWHU",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272601000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2FA8K1O72AWHU",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467276470000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2FA8K1O72AWHU",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467392506000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2FA8K1O72AWHU",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "3",
+      "SideIndicator": "S",
+      "Timestamp": "1745467405697000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2IKHLRAGRQ70I": [
+    {
+      "OrderID": "2IKHLRAGRQ70I",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "7",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272610000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2IKHLRAGRQ70I",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "7",
+      "SideIndicator": "S",
+      "Timestamp": "1745467384077000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2J4741K6DYQRM": [
+    {
+      "OrderID": "2J4741K6DYQRM",
+      "Symbol": "ALL",
+      "Price": "64.31",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272613000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2J4741K6DYQRM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467277245000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2J4741K6DYQRM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467406359000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2KRBMWDB8OE0Y": [
+    {
+      "OrderID": "2KRBMWDB8OE0Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467272635000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2KRBMWDB8OE0Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745467406359000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "21LWPSCI2OVSY": [
+    {
+      "OrderID": "21LWPSCI2OVSY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467283745000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "21LWPSCI2OVSY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467406359000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "24DLTTYCIUPZ6": [
+    {
+      "OrderID": "24DLTTYCIUPZ6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "19",
+      "SideIndicator": "S",
+      "Timestamp": "1745467318003000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "24DLTTYCIUPZ6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "19",
+      "SideIndicator": "S",
+      "Timestamp": "1745467349175000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "28TQKWE9616GY": [
+    {
+      "OrderID": "28TQKWE9616GY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "S",
+      "Timestamp": "1745467382996000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "28TQKWE9616GY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "S",
+      "Timestamp": "1745467404897000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3A25FME3N6B5U": [
+    {
+      "OrderID": "3A25FME3N6B5U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745467388735000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3A25FME3N6B5U",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "9",
+      "SideIndicator": "S",
+      "Timestamp": "1745467405020000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "MA017WKXXMGY": [
+    {
+      "OrderID": "MA017WKXXMGY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "142",
+      "SideIndicator": "B",
+      "Timestamp": "1745467407138000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "MA017WKXXMGY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "142",
+      "SideIndicator": "B",
+      "Timestamp": "1745467408137000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "TE7MXETZ0R9E": [
+    {
+      "OrderID": "TE7MXETZ0R9E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467407269000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "TE7MXETZ0R9E",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467424532000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "31BNSKSQ5OV7M": [
+    {
+      "OrderID": "31BNSKSQ5OV7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "B",
+      "Timestamp": "1745467408675000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "31BNSKSQ5OV7M",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "B",
+      "Timestamp": "1745467479997000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "36AF934VJSPVM": [
+    {
+      "OrderID": "36AF934VJSPVM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "52",
+      "SideIndicator": "B",
+      "Timestamp": "1745467442138000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "36AF934VJSPVM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "52",
+      "SideIndicator": "B",
+      "Timestamp": "1745467462131000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "13CL1GT55JSOY": [
+    {
+      "OrderID": "13CL1GT55JSOY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745467507717000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "13CL1GT55JSOY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "S",
+      "Timestamp": "1745467507840000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "E7ASIFC2XJ42": [
+    {
+      "OrderID": "E7ASIFC2XJ42",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745467555317000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "E7ASIFC2XJ42",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "10",
+      "SideIndicator": "S",
+      "Timestamp": "1745467555529000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2Y7YC3C72MHOI": [
+    {
+      "OrderID": "2Y7YC3C72MHOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "104",
+      "SideIndicator": "B",
+      "Timestamp": "1745467600529000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2Y7YC3C72MHOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "104",
+      "SideIndicator": "B",
+      "Timestamp": "1745467940348000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "MFOHWM32UBM": [
+    {
+      "OrderID": "MFOHWM32UBM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467663926000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "MFOHWM32UBM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "B",
+      "Timestamp": "1745467756138000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "8BNWNPI2PHXE": [
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.44",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467702523000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.41",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467880553000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.43",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467886445000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.4",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745467912214000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.38",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745468061991000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745468082343000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.32",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745468097358000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "8BNWNPI2PHXE",
+      "Symbol": "ALL",
+      "Price": "64.34",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745468102038000",
+      "message_type": "ModifyOrderMessage"
+    }
+  ],
+  "3I9E7F1SD8W02": [
+    {
+      "OrderID": "3I9E7F1SD8W02",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "B",
+      "Timestamp": "1745467954085000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3I9E7F1SD8W02",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "B",
+      "Timestamp": "1745467965238000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3MR7AI7HPX4Y": [
+    {
+      "OrderID": "3MR7AI7HPX4Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "B",
+      "Timestamp": "1745467954288000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3MR7AI7HPX4Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "B",
+      "Timestamp": "1745468054148000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "12OY72HRF8DFM": [
+    {
+      "OrderID": "12OY72HRF8DFM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "98",
+      "SideIndicator": "B",
+      "Timestamp": "1745467971979000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "12OY72HRF8DFM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "98",
+      "SideIndicator": "B",
+      "Timestamp": "1745468036581000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "RQXKWV61TA0Y": [
+    {
+      "OrderID": "RQXKWV61TA0Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "B",
+      "Timestamp": "1745467974275000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "RQXKWV61TA0Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "B",
+      "Timestamp": "1745468040213000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "UJJY92UDYE4I": [
+    {
+      "OrderID": "UJJY92UDYE4I",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "101",
+      "SideIndicator": "B",
+      "Timestamp": "1745468036770000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "UJJY92UDYE4I",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "101",
+      "SideIndicator": "B",
+      "Timestamp": "1745468036778000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "0FQK40CE83CY": [
+    {
+      "OrderID": "0FQK40CE83CY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "B",
+      "Timestamp": "1745468041248000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "0FQK40CE83CY",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "8",
+      "SideIndicator": "B",
+      "Timestamp": "1745468070594000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "2RJOFPSIM6V42": [
+    {
+      "OrderID": "2RJOFPSIM6V42",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "B",
+      "Timestamp": "1745468063560000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2RJOFPSIM6V42",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "3",
+      "SideIndicator": "B",
+      "Timestamp": "1745468065349000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "3B9F1B5LBQFPE": [
+    {
+      "OrderID": "3B9F1B5LBQFPE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "B",
+      "Timestamp": "1745468071372000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "3B9F1B5LBQFPE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "B",
+      "Timestamp": "1745468071373000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "21A7GG13EG3R6": [
+    {
+      "OrderID": "21A7GG13EG3R6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "39",
+      "SideIndicator": "S",
+      "Timestamp": "1745468079175000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "21A7GG13EG3R6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "16",
+      "SideIndicator": "S",
+      "Timestamp": "1745468103865000",
+      "message_type": "OrderExecutedMessage"
+    },
+    {
+      "OrderID": "21A7GG13EG3R6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "17",
+      "SideIndicator": "S",
+      "Timestamp": "1745468104132000",
+      "message_type": "OrderExecutedMessage"
+    },
+    {
+      "OrderID": "21A7GG13EG3R6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745468104395000",
+      "message_type": "OrderExecutedMessage"
+    },
+    {
+      "OrderID": "21A7GG13EG3R6",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "4",
+      "SideIndicator": "S",
+      "Timestamp": "1745468107643000",
+      "message_type": "OrderExecutedMessage"
+    }
+  ],
+  "2H5R6PUQBC0LE": [
+    {
+      "OrderID": "2H5R6PUQBC0LE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745468079398000",
+      "message_type": "AddOrderMessage"
+    }
+  ],
+  "2WHLEPENLZDOI": [
+    {
+      "OrderID": "2WHLEPENLZDOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745468079631000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "2WHLEPENLZDOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "11",
+      "SideIndicator": "S",
+      "Timestamp": "1745468079640000",
+      "message_type": "ModifyOrderMessage"
+    },
+    {
+      "OrderID": "2WHLEPENLZDOI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "11",
+      "SideIndicator": "S",
+      "Timestamp": "1745468097569000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2S40474S5QXHE": [
+    {
+      "OrderID": "2S40474S5QXHE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "1",
+      "SideIndicator": "S",
+      "Timestamp": "1745468082355000",
+      "message_type": "AddOrderMessage"
+    }
+  ],
+  "MXV7PXMYWYKI": [
+    {
+      "OrderID": "MXV7PXMYWYKI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745468097314000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "MXV7PXMYWYKI",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745468102627000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "NHKQ07CL5IBM": [
+    {
+      "OrderID": "NHKQ07CL5IBM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745468097314000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "NHKQ07CL5IBM",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "5",
+      "SideIndicator": "S",
+      "Timestamp": "1745468097317000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "163NZPDJL85XE": [
+    {
+      "OrderID": "163NZPDJL85XE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "S",
+      "Timestamp": "1745468097586000",
+      "message_type": "AddOrderMessage"
+    },
+    {
+      "OrderID": "163NZPDJL85XE",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "99",
+      "SideIndicator": "S",
+      "Timestamp": "1745468103308000",
+      "message_type": "DeleteOrderMessage"
+    }
+  ],
+  "2IAV6BU6CFSAQ": [
+    {
+      "OrderID": "2IAV6BU6CFSAQ",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "2",
+      "SideIndicator": "S",
+      "Timestamp": "1745468125372000",
+      "message_type": "AddOrderMessage"
+    }
+  ],
+  "2EJTY5KFKVP4Y": [
+    {
+      "OrderID": "2EJTY5KFKVP4Y",
+      "Symbol": "ALL",
+      "Price": "64.33",
+      "Quantity": "19",
+      "SideIndicator": "S",
+      "Timestamp": "1745468190166000",
+      "message_type": "AddOrderMessage"
+    }
+  ]
+}

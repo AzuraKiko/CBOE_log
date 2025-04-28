@@ -5,7 +5,7 @@ const { compareObjects } = require("./PareObject.js");
 const { compareObjs } = require("./compareOb.js");
 const { Parser } = require("json2csv");
 
-let currentTradePrice = 34.32;
+let currentTradePrice = 64.31;
 const message = readJSONfile("./result/CXA.json");
 const startData = readJSONfile("./handleResult/3_startData.json");
 const endData = readJSONfile("./handleResult/4_endData.json");

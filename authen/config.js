@@ -1,5 +1,5 @@
-const ENV = "dev"; // Can be changed to 'dev', 'uat', or 'prod' as needed
-const symbol = "BHP";
+const ENV = "tfg"; // Can be changed to 'dev', 'uat', or 'prod' as needed
+const symbol = "ALL";
 
 // Base URLs for different environments
 const BASE_URLS = {

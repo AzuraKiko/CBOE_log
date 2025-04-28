@@ -1,7 +1,7 @@
 const { saveFile } = require("./saveFile.js");
 const { readJSONfile } = require("./readJSONfile.js");
 
-const totalData = readJSONfile("./grouped_by_symbol_BHP_20250416_181532.json");
+const totalData = readJSONfile("./test.json");
 
 class MarketDataProcessor {
     constructor() {
@@ -618,10 +618,10 @@ class MarketDataProcessor {
             }));
 
         // Calculate total sizes
-        const total_ask_size = Array.from(this.askBook.entries())
+        const total_ask_size = asks
             .reduce((sum, [_, data]) => sum + data.quantity, 0);
 
-        const total_bid_size = Array.from(this.bidBook.entries())
+        const total_bid_size = bids
             .reduce((sum, [_, data]) => sum + data.quantity, 0);
 
 
@@ -663,21 +663,28 @@ class MarketDataProcessor {
 
 const startData = readJSONfile("./handleResult/3_startData.json");
 const endData = readJSONfile("./handleResult/4_endData.json");
-const tradePrice = 34.32;
+const tradePrice = 64.31;
 const currentTradePrice = endData.quote?.trade_price ?? tradePrice;
 
 const timeRange = {
-    start: Number(startData.quote.updated) * 1000, // Start time (inclusive)
-    end: Number(endData.quote.updated) * 1000    // End time (inclusive)
+    // start: 1745466833735000,
+    // end: 1745466833766000
+    start: (Number(startData.quote.updated) + 115) * 1000, // Start time (inclusive)
+    end: (Number(endData.quote.updated) + 115) * 1000    // End time (inclusive)
 };
-console.log("timeRange", timeRange);
+const time = {
+    start: new Date(timeRange.start / 1000).toISOString(),
+    end: new Date(timeRange.end / 1000).toISOString(),
+};
+console.log("timeRange", time);
+console.log("currentTradePrice", currentTradePrice);
 
 const processor = new MarketDataProcessor();
 processor.processMessages(totalData, timeRange);
 const depth = processor.getDepth(currentTradePrice);
 const courseOfSales = processor.getCourseOfSales();
 
-const targetPrice = 34.32;
+const targetPrice = 64.31;
 // Example of using getOrderDataByPrice
 const priceAnalysis = processor.getOrderDataByPrice(targetPrice, timeRange);
 // console.log(`Order data at price ${targetPrice}:`, JSON.stringify(priceAnalysis, null, 2));

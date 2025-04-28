@@ -6,7 +6,7 @@ from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 from collections import defaultdict
 
-FILTER_ONLY_EXECUTED = True
+FILTER_ONLY_EXECUTED = False
 USE_SYMBOL_FILTER = True  # Set to False to disable symbol filtering
 USE_TIME_FILTER = False  # Set to False to disable time filtering
 USE_TIME_AND_PRICE_FILTER = False
@@ -17,7 +17,7 @@ GET_LOG_QUOTE = False
 ORDER_MESSAGE_TYPES = ['AddOrderMessage', 'OrderExecutedMessage', 'ModifyOrderMessage', 'DeleteOrderMessage']
 MESSAGE_TYPES = ['AuctionUpdateMessage']
 
-symbol = ['BHP']  # Symbol to filter for
+symbol = ['ALL']  # Symbol to filter for
 # Time range filter parameters 
 START_TIME = 1744167695764000 
 END_TIME = 1744167776676000  
@@ -490,7 +490,7 @@ def check_date(date_input):
     
 # Hàm chính xuất kết quả vào file JSON
 def main():
-    log_data = load_all_log_data('abc')
+    log_data = load_all_log_data('today')
     print('Successfully loaded all log data')
 
     print('Parsing log data...')

@@ -42,6 +42,7 @@ function updateCBOE(startData, message, endData) {
     const startDepth = startData.depth || { ask: {}, bid: {} };
     const messageDepth = message.depth || { ask: {}, bid: {} };
     const trade_price = endData.quote?.trade_price;
+    console.log("trade_price", trade_price);
 
     let depth = expected.depth;
 
