@@ -617,13 +617,19 @@ class MarketDataProcessor {
                 side: 'Bid'
             }));
 
-        // Calculate total sizes
-        const total_ask_size = asks
-            .reduce((sum, [_, data]) => sum + data.quantity, 0);
+        // // Calculate total sizes
+        // const total_ask_size = Array.from(this.askBook.entries())
+        //     .reduce((sum, [_, data]) => sum + data.quantity, 0);
 
-        const total_bid_size = bids
-            .reduce((sum, [_, data]) => sum + data.quantity, 0);
+        // const total_bid_size = Array.from(this.bidBook.entries())
+        //     .reduce((sum, [_, data]) => sum + data.quantity, 0);
 
+
+        const total_ask_size = Object.values(asks || {})
+            .reduce((sum, data) => sum + data.quantity, 0);
+
+        const total_bid_size = Object.values(bids || {})
+            .reduce((sum, data) => sum + data.quantity, 0);
 
         // Convert arrays to objects with numeric keys
         const ask = {};
@@ -669,8 +675,10 @@ const currentTradePrice = endData.quote?.trade_price ?? tradePrice;
 const timeRange = {
     // start: 1745466833735000,
     // end: 1745466833766000
-    start: (Number(startData.quote.updated) + 115) * 1000, // Start time (inclusive)
-    end: (Number(endData.quote.updated) + 115) * 1000    // End time (inclusive)
+    // start: (Number(startData.quote.updated) + 115) * 1000, // Start time (inclusive)
+    // end: (Number(endData.quote.updated) + 115) * 1000,    // End time (inclusive)
+    start: (Number(startData.quote.updated)) * 1000, // Start time (inclusive)
+    end: (Number(endData.quote.updated)) * 1000    // End time (inclusive)
 };
 const time = {
     start: new Date(timeRange.start / 1000).toISOString(),

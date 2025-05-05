@@ -6,8 +6,8 @@ let startData = {};
 let endData = {};
 
 if (dataTest === "SnapShot") {
-    startData = readJSONfile("./result/snap_1745466843907.json")[0];
-    endData = readJSONfile("./result/snap_1745466903030.json")[0];
+    startData = readJSONfile("./result/snap_1745467622731.json")[0];
+    endData = readJSONfile("./result/snap_1745467683246.json")[0];
 } else if (dataTest === "RealTime") {
     startData = readJSONfile("./result/realtime_1744167842417.json")[0].data;
     endData = readJSONfile("./result/realtime_1744167842417.json")[1].data;

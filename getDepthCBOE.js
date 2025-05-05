@@ -344,10 +344,10 @@ const currentTradePrice = 64.28;
 const tradePrice = endData.quote?.trade_price ?? currentTradePrice;
 
 
-// const timeRange = {
-//   start: Number(startData.quote.updated) * 1000, // Start time (inclusive)
-//   end: Number(endData.quote.updated) * 1000    // End time (inclusive)
-// };
+const timeRange = {
+  start: Number((startData.quote.updated) - 110) * 1000, // Start time (inclusive)
+  end: Number((endData.quote.updated) + 110) * 1000    // End time (inclusive)
+};
 // // console.log("timeRange", timeRange);
 // const time = {
 //   start: new Date(timeRange.start / 1000).toISOString(),
@@ -356,11 +356,11 @@ const tradePrice = endData.quote?.trade_price ?? currentTradePrice;
 // console.log("timeRange", time);
 
 // console.log(new Date(1745466894433000 / 1000).toISOString());
-const timeRange = null;
+// const timeRange = null;
 
 const resultWithoutTimeFilter = getDepth(totalData, tradePrice, timeRange);
 saveFile(JSON.stringify(resultWithoutTimeFilter, null, 2), "./result/depthCXA.json");
 
-const targetPrice = 64.40;
+const targetPrice = 64.39;
 const resultPrice = getOrderDataByPrice(totalData, targetPrice, timeRange);
 saveFile(JSON.stringify(resultPrice, null, 2), `./result/priceCXA_${targetPrice}.json`);
