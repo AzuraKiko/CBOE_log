@@ -116,7 +116,7 @@ def convert_to_timestamp(time_string):
 # Hàm phân tích từng dòng log
 def parse_log_entry(log):
     message = log['message']
-    if 'Unsupported' in message or 'Err: redis: nil' in message or 'message_handler' not in log['caller']:
+    if 'Unsupported' in message or 'Err: redis: nil' in message or 'message_handler' not in log.get('caller', ''):
         return None
     log['timestamp'] = convert_to_timestamp(log['time'])
     message_type = get_message_type(message)
