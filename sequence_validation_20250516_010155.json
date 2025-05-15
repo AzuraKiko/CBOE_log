@@ -1,0 +1,18 @@
+{
+    "valid": false,
+    "total_logs": 4,
+    "errors": [
+        {
+            "HdrUnit": 1,
+            "index": 1,
+            "message": {
+                "Timestamp": "1744167595263000",
+                "OrderID": "2P0MJNRWPSOP0\"} - common.SequencedUnitHeader{HdrLength:26",
+                "HdrCount": "1",
+                "HdrUnit": "1",
+                "HdrSequence": "7346466"
+            },
+            "result": "[HdrUnit 1] Sequence error at index 1: Expected 7346467, got 7346466, previous 7346466, (gap: 0)"
+        }
+    ]
+}

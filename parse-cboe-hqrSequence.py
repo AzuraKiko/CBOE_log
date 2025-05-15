@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-USE_TIME_FILTER = True  # Set to False to disable time filtering
+USE_TIME_FILTER = False  # Set to False to disable time filtering
 START_TIME = 1747106717235000
 END_TIME = 1747106717239000
 
@@ -195,19 +195,61 @@ def filter_logs_by_time_range(logs, start_timestamp_micros, end_timestamp_micros
     return filtered_logs
 
 
+# def validate_sequence_increments(sorted_logs):
+#     """
+#     Check if HdrSequence values are incrementing by exactly 1.
+
+#     Args:
+#         sorted_logs: List of log entries sorted by HdrSequence
+
+#     Returns:
+#         dict: Contains validation results with these fields:
+#             - valid: Boolean indicating if all sequences are valid
+#             - total_logs: Total number of logs checked
+#             - errors: List of errors found (missing or incorrect sequences)
+#     """
+#     result = {"valid": True, "total_logs": len(sorted_logs), "errors": []}
+
+#     if not sorted_logs:
+#         logger.warning("No logs to validate sequence")
+#         return result
+
+#     try:
+#         prev_seq = None
+#         for idx, log in enumerate(sorted_logs):
+#             current_seq = int(log["parsed_message"].get("HdrSequence", 0))
+
+#             # Skip the first entry as we need a previous value to compare
+#             if prev_seq is not None:
+#                 expected_seq = prev_seq + 1
+
+#                 # Check if the sequence increments exactly by 1
+#                 if current_seq != expected_seq:
+#                     result["valid"] = False
+#                     error = {
+#                         "index": idx,
+#                         "message": log.get("parsed_message", {}),
+#                         "result": f"Sequence error at index {idx}: Expected {expected_seq}, got {current_seq}, previous {prev_seq}, (gap: {current_seq - prev_seq})",
+#                     }
+#                     result["errors"].append(error)
+#                     logger.warning(
+#                         f"Sequence error at index {idx}: Expected {expected_seq}, got {current_seq}, previous {prev_seq}, (gap: {current_seq - prev_seq})"
+#                     )
+
+#             prev_seq = current_seq
+
+#         logger.info(
+#             f"Sequence validation complete: {'VALID' if result['valid'] else 'INVALID with ' + str(len(result['errors'])) + ' errors'}"
+#         )
+#         return result
+
+#     except Exception as e:
+#         logger.error(f"Error validating sequence increments: {e}")
+#         result["valid"] = False
+#         result["errors"].append({"error": str(e)})
+#         return result
+
 def validate_sequence_increments(sorted_logs):
-    """
-    Check if HdrSequence values are incrementing by exactly 1.
-
-    Args:
-        sorted_logs: List of log entries sorted by HdrSequence
-
-    Returns:
-        dict: Contains validation results with these fields:
-            - valid: Boolean indicating if all sequences are valid
-            - total_logs: Total number of logs checked
-            - errors: List of errors found (missing or incorrect sequences)
-    """
     result = {"valid": True, "total_logs": len(sorted_logs), "errors": []}
 
     if not sorted_logs:
@@ -215,30 +257,31 @@ def validate_sequence_increments(sorted_logs):
         return result
 
     try:
-        prev_seq = None
-        for idx, log in enumerate(sorted_logs):
-            current_seq = int(log["parsed_message"].get("HdrSequence", 0))
+        # Nhóm các log theo HdrUnit
+        logs_by_unit = {}
+        for log in sorted_logs:
+            unit = int(log["parsed_message"].get("HdrUnit", 0))
+            logs_by_unit.setdefault(unit, []).append(log)
 
-            # Skip the first entry as we need a previous value to compare
-            if prev_seq is not None:
-                expected_seq = prev_seq + 1
+        # Kiểm tra từng nhóm HdrUnit riêng
+        for unit, unit_logs in logs_by_unit.items():
+            prev_seq = None
+            for idx, log in enumerate(unit_logs):
+                current_seq = int(log["parsed_message"].get("HdrSequence", 0))
 
-                # Check if the sequence increments exactly by 1
-                if current_seq != expected_seq:
-                    result["valid"] = False
-                    error = {
-                        "index": idx,
-                        "previous_sequence": prev_seq,
-                        "current_sequence": current_seq,
-                        "expected_sequence": expected_seq,
-                        "gap": current_seq - prev_seq,
-                    }
-                    result["errors"].append(error)
-                    logger.warning(
-                        f"Sequence error at index {idx}: Expected {expected_seq}, got {current_seq} (gap: {current_seq - prev_seq})"
-                    )
-
-            prev_seq = current_seq
+                if prev_seq is not None:
+                    expected_seq = prev_seq + 1
+                    if current_seq != expected_seq:
+                        result["valid"] = False
+                        error = {
+                            "HdrUnit": unit,
+                            "index": idx,
+                            "message": log.get("parsed_message", {}),
+                            "result": f"[HdrUnit {unit}] Sequence error at index {idx}: Expected {expected_seq}, got {current_seq}, previous {prev_seq}, (gap: {current_seq - prev_seq})"
+                        }
+                        result["errors"].append(error)
+                        logger.warning(error["result"])
+                prev_seq = current_seq
 
         logger.info(
             f"Sequence validation complete: {'VALID' if result['valid'] else 'INVALID with ' + str(len(result['errors'])) + ' errors'}"
@@ -304,19 +347,6 @@ def main():
             logger.warning(
                 f"Found {len(sequence_validation['errors'])} sequence errors out of {sequence_validation['total_logs']} logs"
             )
-            if len(sequence_validation["errors"]) <= 10:
-                for error in sequence_validation["errors"]:
-                    logger.warning(
-                        f"Sequence error: Expected {error.get('expected_sequence')}, got {error.get('current_sequence')} (gap: {error.get('gap')})"
-                    )
-            else:
-                logger.warning(
-                    f"First 10 sequence errors (from {len(sequence_validation['errors'])} total):"
-                )
-                for error in sequence_validation["errors"][:10]:
-                    logger.warning(
-                        f"Sequence error: Expected {error.get('expected_sequence')}, got {error.get('current_sequence')} (gap: {error.get('gap')})"
-                    )
         else:
             logger.info("All sequences are valid and increment by exactly 1 unit")
 

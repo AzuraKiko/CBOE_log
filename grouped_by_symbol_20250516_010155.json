@@ -1,0 +1,67 @@
+[
+    {
+        "level": "info",
+        "time": "2025-04-09T02:59:55Z",
+        "caller": "/app/pkg/cboe/message_handler.go:80",
+        "message": "UDPAddr: 170.137.217.68:42973 - common.ModifyOrderMessage{Timestamp:1744167595218000, OrderID:\"1CAXR5X7SRMYS\", Quantity:250, Price:16.96, Reserved:\"\\x00\"} - common.SequencedUnitHeader{HdrLength:39, HdrCount:1, HdrUnit:2, HdrSequence:7346465} - ReceivedAt: 2025-04-09 12:59:55.218 - ExecutedTime: 441.328\u00b5s",
+        "timestamp": 1744167595.0,
+        "parsed_message": {
+            "Timestamp": "1744167595218000",
+            "OrderID": "1CAXR5X7SRMYS",
+            "Quantity": "250",
+            "Price": "16.96",
+            "Reserved": "\\x00\"} - common.SequencedUnitHeader{HdrLength:39",
+            "HdrCount": "1",
+            "HdrUnit": "2",
+            "HdrSequence": "7346465"
+        }
+    },
+    {
+        "level": "info",
+        "time": "2025-04-09T02:59:55Z",
+        "caller": "/app/pkg/cboe/message_handler.go:70",
+        "message": "UDPAddr: 170.137.217.68:42973 - common.AddOrderMessage{Timestamp:1744167595263000, OrderID:\"I72188CPLB7O\", SideIndicator:\"B\", Quantity:20000, Symbol:\"VETH\", Price:60.17, PID:\"9452\", Reserved:\"\\x00\"} - common.SequencedUnitHeader{HdrLength:50, HdrCount:1, HdrUnit:2, HdrSequence:7346466} - ReceivedAt: 2025-04-09 12:59:55.263 - ExecutedTime: 255.77\u00b5s",
+        "timestamp": 1744167595.0,
+        "parsed_message": {
+            "Timestamp": "1744167595263000",
+            "OrderID": "I72188CPLB7O",
+            "SideIndicator": "B",
+            "Quantity": "20000",
+            "Symbol": "VETH",
+            "Price": "60.17",
+            "PID": "9452",
+            "Reserved": "\\x00\"} - common.SequencedUnitHeader{HdrLength:50",
+            "HdrCount": "1",
+            "HdrUnit": "2",
+            "HdrSequence": "7346466"
+        }
+    },
+    {
+        "level": "info",
+        "time": "2025-04-09T02:59:55Z",
+        "caller": "/app/pkg/cboe/message_handler.go:82",
+        "message": "UDPAddr: 170.137.217.68:42973 - common.DeleteOrderMessage{Timestamp:1744167595263000, OrderID:\"2P0MJNRWPSOP0\"} - common.SequencedUnitHeader{HdrLength:26, HdrCount:1, HdrUnit:1, HdrSequence:7346466} - ReceivedAt: 2025-04-09 12:59:55.263 - ExecutedTime: 294.674\u00b5s",
+        "timestamp": 1744167595.0,
+        "parsed_message": {
+            "Timestamp": "1744167595263000",
+            "OrderID": "2P0MJNRWPSOP0\"} - common.SequencedUnitHeader{HdrLength:26",
+            "HdrCount": "1",
+            "HdrUnit": "1",
+            "HdrSequence": "7346466"
+        }
+    },
+    {
+        "level": "info",
+        "time": "2025-04-09T02:59:55Z",
+        "caller": "/app/pkg/cboe/message_handler.go:82",
+        "message": "UDPAddr: 170.137.217.68:42973 - common.DeleteOrderMessage{Timestamp:1744167595263000, OrderID:\"2P0MJNRWPSOP0\"} - common.SequencedUnitHeader{HdrLength:26, HdrCount:1, HdrUnit:1, HdrSequence:7346466} - ReceivedAt: 2025-04-09 12:59:55.263 - ExecutedTime: 294.674\u00b5s",
+        "timestamp": 1744167595.0,
+        "parsed_message": {
+            "Timestamp": "1744167595263000",
+            "OrderID": "2P0MJNRWPSOP0\"} - common.SequencedUnitHeader{HdrLength:26",
+            "HdrCount": "1",
+            "HdrUnit": "1",
+            "HdrSequence": "7346466"
+        }
+    }
+]
