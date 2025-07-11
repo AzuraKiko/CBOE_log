@@ -1,0 +1,4 @@
+2025-07-11T15:38:32: [2025-07-11T08:38:32.402Z] [INFO] Multi-file cron job scheduler started with PM2
+2025-07-11T15:38:32: [2025-07-11T08:38:32.404Z] [INFO] Schedule: 11:30 - 11:45
+2025-07-11T15:38:32: [2025-07-11T08:38:32.404Z] [INFO] Maximum 15 runs allowed every 30 minutes
+2025-07-11T15:38:32: [2025-07-11T08:38:32.404Z] [INFO] Day range: 3-25

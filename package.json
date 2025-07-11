@@ -2,9 +2,22 @@
   "dependencies": {
     "axios": "^1.8.4",
     "json2csv": "^6.0.0-alpha.2",
-    "node-cron": "^3.0.3"
+    "node-cron": "^3.0.3",
+    "pm2": "^6.0.8"
   },
   "devDependencies": {
     "@types/json2csv": "^5.0.7"
+  },
+  "name": "auto-scheduler",
+  "version": "1.0.0",
+  "description": "Automated script scheduler with PM2",
+  "main": "scheduler.js",
+  "scripts": {
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop auto-scheduler",
+    "restart": "pm2 restart auto-scheduler",
+    "logs": "pm2 logs auto-scheduler",
+    "monit": "pm2 monit"
   }
 }
+
